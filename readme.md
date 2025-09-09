@@ -1,16 +1,3 @@
-- [ ] 【规则】高频代码的正常流程中禁止打印日志
-- [ ] 【规则】在基本不可能发生的点必须要打印日志
-- [ ] 【规则】事件记录的日志使用who do what 主谓宾的形式打印
-- [ ] 【规则】状态变化的日志打印使用state_name:s1->s2, reason:msg的形式打印
-- [ ] 【规则】参数值的日志打印使用name1=value1, name2=value2…的形式打印
-- [ ] 【规则】代码运行成功的日志使用xxx successful的形式打印
-- [ ] 【规则】代码运行失败的日志使用xxx failed, please xxx的形式打印
-
-- AAAAA
-
-- BBBBB
-
-
 - AAAAA
 - BBBBB
 
@@ -135,6 +122,7 @@
 
 
 [ASDASDSA](#iCSS--!：，interestingcss)
+
 
 
 
