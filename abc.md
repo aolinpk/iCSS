@@ -13,6 +13,10 @@
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+
+<img width="360" height="360" alt="image" src="github.com/user-attachments/assets/28230464-fea9-42d2-9498-1ad62e923ad0" />
+
+
 # cangjie_mall
 
 本仓库没有代码 , 主要收集全网关于仓颉语言的开源库 , 方便大家查找 ,
