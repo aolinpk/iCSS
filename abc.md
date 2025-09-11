@@ -14,7 +14,7 @@
 > Negative potential consequences of an action.
 
 
-<img width="360" height="360" alt="image" src="github.com/user-attachments/assets/28230464-fea9-42d2-9498-1ad62e923ad0" />
+<img width="360" height="360" alt="image" src="http://github.com/user-attachments/assets/28230464-fea9-42d2-9498-1ad62e923ad0" />
 
 
 # cangjie_mall
