@@ -22,7 +22,7 @@
 
 ![border](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_border.png)
 
-<img src="http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_border.png" />
+<p><img src="http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_border.png" /></p>
 
 #### 2、[类似下面这样的条纹边框，只使用一个标签，可以有多少种实现方式 -- 从条纹边框的实现谈盒子模型：](https://github.com/chokcoco/iCSS/issues/1)
 
@@ -125,6 +125,7 @@
 
 
 [ASDASDSA](#iCSS--!：，interestingcss)
+
 
 
 
