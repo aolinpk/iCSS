@@ -1,3 +1,17 @@
+# 人工智能的发展历程
+
+人工智能（AI）是计算机科学的一个分支[^1]，它企图了解智能的实质，并生产出一种新的能以人类智能相似的方式做出反应的智能机器。
+
+## 早期发展
+
+图灵测试[^turing]是人工智能哲学方面第一个严肃的提案。1956年，在达特茅斯会议上[^conference]，约翰·麦卡锡首次提出了"人工智能"这一术语。
+
+## 现代应用
+
+近年来，深度学习[^deeplearning]技术在图像识别、自然语言处理等领域取得了突破性进展。许多科技公司都在积极布局AI领域[^companies]。
+
+---
+
 # iCSS--!：，interestingcss
 ## 1231231412
 ### 1231231412
@@ -315,6 +329,16 @@ col
 |  ReduceScatter |  $ (p-1)(\alpha+\frac{n}{p}\beta+\frac{n}{p}\gamma)=(p-1)\alpha+\frac{p-1}{p}n\beta+\frac{p-1}{p}n\gamma $  |
 |  AllGather    | $ (p-1)(\alpha+\frac{n}{p}\beta)=(p-1)\alpha+\frac{p-1}{p}n\beta $  |
 | AllReduce     | 实现为ReduceScatter +  Allgather: <br> $ 2(p-1)\alpha+2\frac{p-1}{p}n\beta+\frac{p-1}{p}n\gamma $ |
+
+
+
+## 参考文献与注释
+
+[^1]: 人工智能的研究领域包括机器人、语言识别、图像识别、自然语言处理等。
+[^turing]: 由艾伦·图灵于1950年提出，旨在测试机器是否能够表现出与人无法区分的智能行为。
+[^conference]: 1956年达特茅斯会议被认为是人工智能诞生的标志性事件。
+[^deeplearning]: 深度学习是机器学习的一个分支，它基于深层神经网络架构。
+[^companies]: 包括Google、Microsoft、OpenAI等公司都在AI研发上投入了大量资源。
 
 
 
