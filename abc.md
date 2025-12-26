@@ -1,3 +1,28 @@
+如下为接口变更检查结果，目标分支为master，请PR提交者check差异信息
+<table> <tr><th>Arch Name</th> <th>Check Items</th> <th>Rpm Name</th> <th>Check Result</th> <th>Build Details</th></tr>
+<tr><td rowspan=10>compare_package(x86_64)</td> <td>add_rpms</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td> <td rowspan=10><a href=https://openeulerjenkins.osinfra.cn/job/multiarch/job/src-openeuler/job/x86-64/job/libcap/126/console>#126</a></td></tr>
+<tr><td>delete_rpms</td> <td></td> <td> :white_check_mark: <strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_abi</td> <td></td> <td> :white_check_mark: <strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_cmd</td> <td></td> <td> :white_check_mark: <strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_files</td> <td></td> <td> :white_check_mark: <strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_header</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_lib</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_provides</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_requires</td> <td>libcap-devel<br>libcap</td> <td>:x:<strong>FAILED</strong></td></tr>
+<tr><td>rpm_symbol</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td rowspan=10>compare_package(aarch64)</td> <td>add_rpms</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td> <td rowspan=10><a href=https://openeulerjenkins.osinfra.cn/job/multiarch/job/src-openeuler/job/aarch64/job/libcap/126/console>#126</a></td></tr>
+<tr><td>delete_rpms</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_abi</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_cmd</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_files</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_header</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_lib</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_provides</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+<tr><td>rpm_requires</td> <td>libcap<br>libcap-devel</td> <td>:x:<strong>FAILED</strong></td></tr>
+<tr><td>rpm_symbol</td> <td></td> <td>:white_check_mark:<strong>SUCCESS</strong></td></tr>
+</table>
+
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
