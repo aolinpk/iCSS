@@ -261,7 +261,7 @@ col
       bag_size的shape 为 include_last_offset ? (offsets - 1) : (offsets,)
       max_indices的shape 为 include_last_offset ? (offsets - 1) : (offsets,)
       y的shape 为 include_last_offset? (offsets - 1, embeddingDim) : (offsets, embeddingDim)
-      offset2bag的shape 为 (indices,)
+      offset2bag的shape 为 (indices,)123
       bag_size的shape 为 include_last_offset ? (offsets - 1) : (offsets,)
       max_indices的shape 为 include_last_offset ? (offsets - 1) : (offsets,)
       y的shape 为 include_last_offset? (offsets - 1, embeddingDim) : (offsets, embeddingDim)
