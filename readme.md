@@ -89,10 +89,12 @@
 规定下面的布局，实现多列等高布局，要求两列背景色等高。
 
 ``` HTML
-<div class="container">
-    <div class="left">多列等高布局左</div> 
-    <div class="right">多列等高布局右</div>
-</div>
+$ wget --header="Authorization: Bearer hB********qV" https://raw.gitcode.com/user-images/assets/15****6/d82249ce-***********7b4be4611b/image.png 
+--2026-04-30 10:11:12--  https://raw.gitcode.com/user-images/assets/15****6/d82249ce-***********7b4be4611b/image.png
+Resolving raw.gitcode.com (raw.gitcode.com)... 124.70.81.3
+Connecting to raw.gitcode.com (raw.gitcode.com)|124.70.81.3|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2026-04-30 10:11:13 ERROR 403: Forbidden.
 ```
 
 #### 10、[巧妙的实现 CSS 斜线](https://github.com/chokcoco/iCSS/issues/2)
