@@ -19,6 +19,7 @@
 [ ] 【规则】代码运行失败的日志使用xxx failed, please xxx的形式打印
 
 
+./abc.md
 
 ../../llm_pretrain/deepseek_v4_1/README.md
 
