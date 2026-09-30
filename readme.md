@@ -7,6 +7,8 @@
 下载[固件与驱动](https://hiascend.com/hardware/firmware-drivers/community)，请根据系统和硬件产品型号选择对应版本的社区版本或商用版本的固件与驱动。
 
 
+[../../llm_pretrain/deepseek_v4_1/README.md](../../llm_pretrain/deepseek_v4_1/README.md)
+
 ### 日志规范自检：
 - [ ] 【规则】高频代码的正常流程中禁止打印日志
 - [ ] 【规则】在基本不可能发生的点必须要打印日志
